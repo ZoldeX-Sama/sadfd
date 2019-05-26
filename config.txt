@@ -1,0 +1,8 @@
+?token=NTgyMTg3OTIyNzIwMTYxODEx.XOqK0A.6K5Sng71Io_2UoI_PPXfzbbFETQ 
+owner=530914058526916611 
+prefix= z
+game= zhelp
+stayinchannel=true
+songinstatus=true 
+token=NTgyMTg3OTIyNzIwMTYxODEx.XOqK0A.6K5Sng71Io_2UoI_PPXfzbbFETQ
+owner=530914058526916611
